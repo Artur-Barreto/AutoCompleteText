@@ -12,7 +12,6 @@ function App() {
           <AutoCompleteText items={countries} />
           <wbr></wbr>
           <AutoCompleteText items={['Adam', 'Peter', 'Sara']} />
-
         </div>
       </div>
     </div>
